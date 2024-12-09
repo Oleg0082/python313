@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.104894"
-     inkscape:cx="509.55113"
-     inkscape:cy="321.29778"
+     inkscape:zoom="3.1251122"
+     inkscape:cx="381.74629"
+     inkscape:cy="236.47151"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
@@ -444,5 +444,24 @@
        style="fill:#000000;stroke:#000000;stroke-width:0.766;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1)"
        d="M 87.880842,54.692703 H 159.84492"
        id="path16164" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:0.766;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18473"
+       width="10.29699"
+       height="5.86689"
+       x="101.05419"
+       y="43.941811"
+       ry="2.7092361" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#ffffff;stroke:none;stroke-width:0.766;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="103.52043"
+       y="47.875359"
+       id="text18477"><tspan
+         sodipodi:role="line"
+         id="tspan18475"
+         style="fill:#ffffff;stroke:none;stroke-width:0.766"
+         x="103.52043"
+         y="47.875359">RAM</tspan></text>
   </g>
 </svg>
