@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="167.29532mm"
+   height="84.832954mm"
+   viewBox="0 0 167.29532 84.832954"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Estructuras.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.1251122"
+     inkscape:cx="289.26961"
+     inkscape:cy="187.19328"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606604"
+       markerHeight="6.7071066"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-63.328392,-54.015392)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect5306"
+       width="167.29532"
+       height="84.832954"
+       x="63.328392"
+       y="54.015392"
+       ry="2.9080496" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1514"
+       width="59.095211"
+       height="36.913338"
+       x="115.65051"
+       y="78.398514"
+       ry="2.9080496" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Arrow1)"
+       d="m 82.25619,94.349169 h 32.92642"
+       id="path1728" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Arrow1)"
+       d="M 173.73178,94.349169 H 206.6582"
+       id="path2163" />
+    <circle
+       style="fill:#b3b3b3;stroke:none;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path4514"
+       cx="122.29074"
+       cy="93.448677"
+       r="1.7361205" />
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect9816"
+       width="10.836945"
+       height="5.4184723"
+       x="117.00513"
+       y="94.061287"
+       ry="2.7092361" />
+  </g>
+</svg>
