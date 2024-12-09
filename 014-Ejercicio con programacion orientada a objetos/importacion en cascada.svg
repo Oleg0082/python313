@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg21589"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="importacion en cascada.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21591"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.2097881"
+     inkscape:cx="312.69967"
+     inkscape:cy="329.44336"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs21586" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.766;stroke-linecap:round;stroke-linejoin:round"
+       id="rect23168"
+       width="38.437286"
+       height="18.118015"
+       x="48.427593"
+       y="75.350624"
+       ry="2.9080496" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.766;stroke-linecap:round;stroke-linejoin:round"
+       x="50.798176"
+       y="80.261116"
+       id="text23172"><tspan
+         sodipodi:role="line"
+         id="tspan23170"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.766"
+         x="50.798176"
+         y="80.261116">principal</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.766;stroke-linecap:round;stroke-linejoin:round"
+       id="rect23174"
+       width="38.437286"
+       height="18.118015"
+       x="82.910538"
+       y="61.461658"
+       ry="2.9080496" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.766;stroke-linecap:round;stroke-linejoin:round"
+       x="85.28112"
+       y="66.372154"
+       id="text23178"><tspan
+         sodipodi:role="line"
+         id="tspan23176"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.766"
+         x="85.28112"
+         y="66.372154">funciones</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.766;stroke-linecap:round;stroke-linejoin:round"
+       id="rect23180"
+       width="38.437286"
+       height="18.118015"
+       x="115.71722"
+       y="47.452961"
+       ry="2.9080496" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.766;stroke-linecap:round;stroke-linejoin:round"
+       x="118.08781"
+       y="52.363457"
+       id="text23184"><tspan
+         sodipodi:role="line"
+         id="tspan23182"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.766"
+         x="118.08781"
+         y="52.363457">Producto</tspan></text>
+  </g>
+</svg>
